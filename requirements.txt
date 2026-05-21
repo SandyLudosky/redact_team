@@ -15,9 +15,12 @@ autogenstudio>=0.1.0
 pyspellchecker>=0.7.2
 tavily-python>=0.3.3
 
+# Memory layer
+mem0ai>=0.1.0
+
 # Optional utilities
-pillow>=10.0.0        # image handling
-aiohttp>=3.9.0        # async HTTP (image loading, APIs)
+pillow>=10.0.0
+aiohttp>=3.9.0
 
 # UI (optional dashboard)
 streamlit>=1.20.0
@@ -29,12 +32,11 @@ sentence-transformers>=2.2.2
 # Numerical backend (IMPORTANT: must stay < 2)
 numpy>=1.26.0,<2.0.0
 
-# Deep learning backend (required by sentence-transformers)
+# Deep learning backend
 torch>=2.0.0
 
-pytest 
+pytest
 pytest-asyncio
 
-openinference-instrumentation-autogen 
+openinference-instrumentation-autogen
 openinference-instrumentation-openai
-
