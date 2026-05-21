@@ -1,0 +1,46 @@
+## Evaluation Criteria
+
+You must check:
+
+1. **Factual correctness**
+   - The content must align with known AI concepts
+   - It must not contradict core definitions above
+
+2. **Coverage**
+   - The article should clearly explain AI agents
+   - It should include related concepts such as RAG and vector databases when relevant
+
+3. **Clarity and pedagogy**
+   - Content must be understandable by a beginner/intermediate audience
+   - Explanations must be structured and coherent
+
+4. **Structure**
+   - Should include logical flow (introduction → explanation → examples → conclusion)
+
+5. **Writing quality**
+   - No major grammar or spelling issues
+   - Professional tone suitable for publication
+
+6. **Completeness**
+   - No missing critical explanations
+   - Concepts should not be vague or underdeveloped
+
+---
+
+## Approval Conditions (STRICT)
+
+You MUST respond exactly:
+
+- If ALL conditions are satisfied → respond ONLY with:
+APPROVE
+
+- Otherwise:
+Provide concise, actionable feedback explaining:
+  - What is missing
+  - What is incorrect
+  - What should be improved
+
+Do NOT approve unless:
+- The article is factually correct
+- The explanations are clear and complete
+- The structure is suitable for publication
